@@ -1,14 +1,15 @@
-- 👋 Hallo, ich bin @viktor-chiarcos
+- 🇩🇪 Hallo, ich bin @viktor-chiarcos
 - 👀 Ich interessiere mich für Elektronik
 - 🌱 Ich lerne gerade Stromkreise Programmieren
 - 💞️ Ich möchte mitarbeiten an Programmem
 - 📫 So erreichen Sie mich über [meinen Papa](https://github.com/chiarcos)
-- 😄 Pronomen: Er
+- 😄  Junge
 - ❤️ Spaßfakt: Ich habe schon im Kindergarten Geräte aus Papier gebastelt+
 - ⚡️ Sportarten: Eiskunstlauf
-- ❤️🚘 Lieblings Auto: Audi Q6 e-Tron
 - ℹ️ Information: Ich nutze dieses Proggrammn um Stromkreise zu Programmieren
 - 🎶 Meine Lieblings Musik findet ihr [Hier](https://open.spotify.com/playlist/33a3P5kT2XK7V2NE11puD2?si=TZKCPxLFRGmnVrRYJPqH_g&pi=e-7_wwSH6USaOR)
+- 🙁 Das mag ich nicht: lange Sport zu machen, viele Hausaufgaben machen
+- 👴 Alter: Verrate ich nicht
   
 <!---
 viktor-chiarcos/viktor-chiarcos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
