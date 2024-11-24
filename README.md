@@ -11,7 +11,7 @@
 - 🙁 Das mag ich nicht: lange Sport zu machen, viele Hausaufgaben machen
 - 👴 Alter: Verrate ich nicht
 - 🏫 Das habe ich neulich gelernt: GitHub auf Computer benutzen 
-- 
+- ℹ️ information: (Das habe ich gelernt) Git Hub in Notepads++ (Windows 10 und 11)
 
 <!---
 viktor-chiarcos/viktor-chiarcos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
