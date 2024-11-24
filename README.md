@@ -7,7 +7,7 @@
 - ❤️ Spaßfakt: Ich habe schon im Kindergarten Geräte aus Papier gebastelt.
 - ⚡️ Sportarten: Eiskunstlauf
 - ℹ️ Information: Ich nutze dieses Proggrammn um Stromkreise zu Programmieren
-- 🎶 Meine Lieblings Musik findet ihr [Hier](https://open.spotify.com/playlist/33a3P5kT2XK7V2NE11puD2?si=TZKCPxLFRGmnVrRYJPqH_g&pi=e-7_wwSH6USaOR)
+- 🎶 Meine Lieblings Musik findet ihr [Hier (auf Spotify) ](https://open.spotify.com/playlist/33a3P5kT2XK7V2NE11puD2?si=TZKCPxLFRGmnVrRYJPqH_g&pi=e-7_wwSH6USaOR)
 - 🙁 Das mag ich nicht: lange Sport zu machen, viele Hausaufgaben machen
 - 👴 Alter: Verrate ich nicht
 - 🏫 Das habe ich neulich gelernt: GitHub auf Computer benutzen 
