@@ -12,6 +12,7 @@
 - 👴 Alter: Verrate ich nicht
 - 🏫 Das habe ich neulich gelernt: GitHub auf Computer benutzen 
 - ℹ️ information: (Das habe ich gelernt) Git Hub in Notepads++ (Windows 10 und 11)
+- Ru Russisch kann ich auch sprechen
 - i information: [ich](https://github.com/viktor-chiarcos) benutze dieses System um auch Hausaufgaben zu Kontrollieren
 
 <!---
